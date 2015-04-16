@@ -5,10 +5,10 @@ This is my first blog-type application in rails, soon it may be deployed to hero
 All customization was made with CSS and normalize
 
 Functionality:
--user authentication
--comments
--validation for posts
--creat/delete/edit posts
+  -user authentication
+  -comments
+  -validation for posts
+  -creat/delete/edit posts
 
 Gems:
--devise
+  -devise
